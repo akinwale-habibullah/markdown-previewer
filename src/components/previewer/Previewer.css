@@ -1,0 +1,9 @@
+div {
+  text-align: left;
+}
+
+ li {
+  list-style-type: circle !important;
+  list-style-position: inside !important;
+  display: list-item !important;
+}
