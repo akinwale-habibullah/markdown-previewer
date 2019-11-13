@@ -1,3 +1,7 @@
+# Markdown Previewer
+
+> Learn markdown in your browser. Simply type in the editor and watch the resultant html output.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
